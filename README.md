@@ -5,15 +5,15 @@ This repository demonstrates a **Retrieval-Augmented Generation (RAG)** pipeline
 
 ## 📁 Project Structure
 RAG_Workflow/
-├── research_notebook/ # Jupyter Notebooks for research and testing
-├── src/ # Python source code for data processing and retrieval
-├── volumes/milvus/ # Data volume and configuration for Milvus
-├── embedEtcd.yaml # Milvus embedding configuration
-├── standalone_embed.sh # Script to launch Milvus in standalone mode
-├── user.yaml # User configuration for Milvus
-├── .gitignore # Git ignore rules
-├── LICENSE # MIT License
-├── README.md # Project documentation
+├── research_notebook/       # Jupyter Notebooks for experimentation and testing
+├── src/                     # Python source code for data processing and retrieval
+├── volumes/milvus/          # Data volume and configuration for Milvus
+├── embedEtcd.yaml           # Milvus embedding configuration
+├── standalone_embed.sh      # Script to launch Milvus in standalone mode
+├── user.yaml                # User configuration for Milvus
+├── .gitignore               # Git ignore rules
+├── LICENSE                  # MIT License
+├── README.md                # Project documentation
 
 ---
 
@@ -42,11 +42,11 @@ bash standalone_embed.sh
 ###
 3. **Open Notebook***
    Launch Jupyter Lab/Notebook and navigate to the research_notebook/ folder.
-   
+###   
 4. **Use the source code***
 All main code components (e.g., ingestion, retrieval) are located in the src/ folder.
 
-**Reference**
+
 
 **Author**
 Maha Saad
