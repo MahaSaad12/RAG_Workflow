@@ -15,9 +15,9 @@ RAG_Workflow/
 ├── .gitignore               # Git ignore rules
 ├── LICENSE                  # MIT License
 ├── README.md                # Project documentation
+```
 
 
----
 
 ## ⚙️ Requirements
 
@@ -35,7 +35,8 @@ RAG_Workflow/
    git clone https://github.com/MahaSaad12/RAG_Workflow.git
    cd RAG_Workflow
 
------
+
+---
 
 ###
 2 **Start Milvus (Standalone Mode)**
