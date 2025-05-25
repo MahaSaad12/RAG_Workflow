@@ -4,6 +4,7 @@ This repository demonstrates a **Retrieval-Augmented Generation (RAG)** pipeline
 ---
 
 ## 📁 Project Structure
+```
 RAG_Workflow/
 ├── research_notebook/       # Jupyter Notebooks for experimentation and testing
 ├── src/                     # Python source code for data processing and retrieval
